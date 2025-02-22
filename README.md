@@ -28,7 +28,7 @@ A Python-based Wikipedia search tool with both CLI and GUI interfaces.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wikipedia-search.git
+git clone https://github.com/Ratkiller446/wikipedia-search.git
 cd wikipedia-search
 
 # Install dependencies
@@ -63,4 +63,8 @@ python wikipedia_search.py
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
